@@ -23,6 +23,8 @@ Link: https://raw.githubusercontent.com/selva86/datasets/master/Hitters.csv)
 
 # Structure:
 The files for each of the examples are located in the /src folder. Overall structure is:
+
+```
 |- README.md
   |- src/
      |- demo_simulated_dataset.py
@@ -30,6 +32,7 @@ The files for each of the examples are located in the /src folder. Overall struc
      |- compare_sklearn_mylasso.py
   |- img/
      |- algo.jpg
+```
 
 # Execution:
 To execute the examples, you can download the three .py files in /src folder and use the following python commands to run:
