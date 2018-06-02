@@ -4,7 +4,7 @@ In these examples, the LASSO problem with L1-Regularization is solved using Cycl
 
 The general form of the algorithm is:
 
-!()
+!(https://github.com/TejasJagadeesh/Lasso-Coordinate-Descent/blob/master/img/algo.jpg)
 
 # Examples:
 There are three examples in this repository:
